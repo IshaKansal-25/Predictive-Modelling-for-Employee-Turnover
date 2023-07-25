@@ -15,4 +15,4 @@ control
 
 • Used 7 Machine Learning Models and 7 accuracy metrices
 
-• Divided the project in 7 modules
+• Divided the project in 4 modules
